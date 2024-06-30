@@ -2,8 +2,7 @@
 The solidity program shows the usage of "Error Handling" using multiple functions like require,revert and assert.
 ## Description
 Error handling, a concept to handle errors or inspect routines to prevent errors or reverse it back to the initial stage in case an error happens, is used in this program, which is a contract in solidity.
-It is an error-handling TokenAgreement smart contract that will serve as a foundation for my next endeavors.
-You can mint, transfer, and burn money here.To make sure that the transaction would be reverted back in accordance with the original intent, I have employed numerous error handlers.Your address and amount are verified when withdrawing, and your TokenAgreement is reviewed to see if you've reached the required amount before allowing the transfer.
+It is an error-handling my_Unique_Bank smart contract that will serve as a foundation for my next endeavors.
 ## Getting Started
 ### Executing the program
 You can use the online Solidity IDE Remix to run this program. Visit the Remix website at https://remix.ethereum.org/ to get started.
